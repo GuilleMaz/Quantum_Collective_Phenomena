@@ -1,0 +1,6 @@
+# Lista blanca: al repositorio solo entran scripts y figuras
+*
+!*/
+!.gitignore
+!*.py
+!*.png
